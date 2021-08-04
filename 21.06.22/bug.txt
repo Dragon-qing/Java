@@ -1,0 +1,7 @@
+add方法异常
+异常名称NullPointerException
+异常原因Cannot invoke "String.toString()" because "s" is null
+div方法异常
+异常名称ArithmeticException
+异常原因/ by zero
+共有2个异常

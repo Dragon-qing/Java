@@ -1,0 +1,8 @@
+
+document.writeln("<script src=\"https://pstatic.xunlei.com/js/webThunderDetect.js\" charset=\"utf-8\"></script>");
+document.writeln("<script src=\"/base64.js\"></script>");
+document.writeln("<script language=\"javascript\">");
+document.writeln("var thunderPath = \"\";");
+document.writeln("var thunderPid = \"00000\";");
+document.writeln("</script>");
+document.writeln("<script src=\"/thunderForum.js\"></script> ");
